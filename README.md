@@ -7,7 +7,7 @@
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lim-kim930&layout=compact">
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lim-kim930&layout=compact">
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
