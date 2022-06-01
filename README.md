@@ -80,13 +80,3 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 > I wrote a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
 
 ---
-
-You can find how to contact me in the sidebar. You can follow me to find something more interesting.
-
-If you like ~~Xiao Yun or me~~ or my projects, you can buy me a 🍉 / 🍟 / 🍦 at [GitHub Sponsors](https://github.com/sponsors/YunYouJun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
-  </a>
-</p>
