@@ -1,6 +1,4 @@
-### Hi there, I'm [YunYouJun](https://www.yunyoujun.cn)（云游君）. 👋
-
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
+### Hi there, I'm [LIMKIM](https://limkim.xyz). 👋
 
 I am a learning master student from China, core team member of [element-plus](https://github.com/element-plus).
 I like open source and all interesting things and want to try to do it.
