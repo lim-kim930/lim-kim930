@@ -1,20 +1,5 @@
 ### Hi there, I'm [LIMKIM](https://limkim.xyz). 👋
 
-I am a learning master student from China, core team member of [element-plus](https://github.com/element-plus).
-I like open source and all interesting things and want to try to do it.
-
-I want to be an interesting person and create something that can be remembered by others.
-
-The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, she will speak for me in the virtual world.
-
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
-- 🌱 I’m currently learning Computer Graphics & FE & Drawing, and want to learn everything interesting.
-- 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. I call it [advjs](https://www.advjs.org/).
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything [here](https://github.com/YunYouJun/YunYouJun/issues).
-
----
-
 #### Languages
 
 <!-- github-stats:start -->
@@ -34,9 +19,6 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
@@ -49,10 +31,8 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <!-- markdownlint-disable -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="gulp" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="macos" /></code>
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
@@ -73,8 +53,4 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <!-- prettier-ignore-end -->
 
 <!-- interested:end -->
-
-> By the way, are you also curious about how to generate the list?
-> I wrote a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
-
 ---
