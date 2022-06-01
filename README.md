@@ -1,4 +1,6 @@
-### Hi there, I'm [LIMKIM](https://limkim.xyz). 👋<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=lim-kim930&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+### Hi there, I'm [LIMKIM](https://limkim.xyz). 👋
+
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=lim-kim930&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
 #### Languages
 
