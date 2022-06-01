@@ -1,12 +1,13 @@
 ### Hi there, I'm [LIMKIM](https://limkim.xyz). 👋
 
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=lim-kim930&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+
 #### Languages
 
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=lim-kim930&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An1ex&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lim-kim930&layout=compact">
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
