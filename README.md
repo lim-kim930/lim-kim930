@@ -2,6 +2,16 @@
 
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=lim-kim930&count_private=true&theme=vue&show_icons=true&include_all_commits=true&custom_title=I'm a little rookie."/>
 
+#### This Week
+
+<!-- github-stats:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=lim-kim930">
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- github-stats:end -->
+
 #### Languages
 
 <!-- github-stats:start -->
