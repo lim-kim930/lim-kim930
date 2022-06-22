@@ -2,7 +2,7 @@
 
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=lim-kim930&count_private=true&theme=vue&show_icons=true&include_all_commits=true&custom_title=I'm a little rookie."/>
 
-<img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=lim-kim930&repo=Edu-Management-System">
+<img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=lim-kim930&repo=Dev">
 
 #### Languages
 
