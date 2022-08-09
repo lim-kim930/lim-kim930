@@ -7,7 +7,7 @@
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lim-kim930&exclude_repo=newEdu&langs_count=6&layout=compact">
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lim-kim930&exclude_repo=newEdu&langs_count=6&layout=compact&count_private=true">
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
