@@ -1,6 +1,6 @@
 ### Hi there, I'm [LIMKIM](https://limkim.xyz). 👋
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=lim-kim930&count_private=true&theme=vue&show_icons=true&include_all_commits=true&custom_title=Oops! A little rookie."/>
+<img width="450" src="https://github-readme-stats.vercel.app/api?username=lim-kim930&count_private=true&theme=vue&show_icons=true&include_all_commits=true&custom_title=Oops! What a little rookie."/>
 
 #### Languages
 
