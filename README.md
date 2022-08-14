@@ -34,7 +34,7 @@
 <code><img height="30" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <code><img height="30" src="https://limkim.cn/logo/React-icon.svg" alt="react" /></code>
 <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" /></code>
-<code><img height="30" src="hhttps://code.visualstudio.com/assets/images/code-stable.png" alt="visual-studio-code" /></code>
+<code><img height="30" src="hhttps://limkim.cn/logo/code-stable.png" alt="visual-studio-code" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
