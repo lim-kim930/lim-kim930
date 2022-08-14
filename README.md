@@ -19,7 +19,7 @@
 <code><img height="30" src="https://limkim.cn/logo/typescript-design-assets/ts-logo-512.png" alt="typescript" /></code>
 <code><img height="30" src="https://en.wikipedia.org/wiki/File:CSS3_logo_and_wordmark.svg" alt="css" /></code>
 <code><img height="30" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="html" /></code>
-<code><img height="30" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.ai" alt="nodejs" /></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
