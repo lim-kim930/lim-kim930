@@ -2,8 +2,6 @@
 
 <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=lim-kim930&theme=vue&border=E5E3E3"/>
 
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=lim-kim930&count_private=true&theme=vue&show_icons=true&include_all_commits=true&custom_title=Oops!%20What%20a%20little%20rookie."/>
-
 #### Languages
 
 <!-- github-stats:start -->
