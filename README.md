@@ -1,6 +1,6 @@
 ### Hi there, I'm [LIMKIM](https://limkim.xyz). 👋
 
-<img width="450" src="https://streak-stats.demolab.com/?user=lim-kim930&theme=vue&border=E5E3E3"/>
+<img width="450" src="https://github-readme-streak-stats-alpha-six.vercel.app/?user=lim-kim930&theme=vue&border=E5E3E3"/>
 
 #### Languages
 
