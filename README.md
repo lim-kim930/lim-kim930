@@ -39,5 +39,3 @@
 <!-- prettier-ignore-end -->
 
 <!-- tools:end -->
-
-#### BTW, if you like K-Pop too, welcome to [Limiii](https://Limiii.com), which is my college graduation project.
