@@ -1,4 +1,4 @@
-### Hi there, I'm [LIMKIM](https://limkim.xyz). 👋
+### Hi there, I'm LIMKIM. 👋
 
 <img width="450" src="https://streak-stats.demolab.com/?user=lim-kim930&theme=vue&border=E5E3E3"/>
 
